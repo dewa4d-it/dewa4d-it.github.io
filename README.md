@@ -547,7 +547,7 @@
                                     text-shadow: 2px 2px #0c0f12;
                                     border-radius: 10px 10px;
                                     border: 1px solid #000000;
-                                    background: linear-gradient(to right, #9d00ff 0%, #ea00ff 100%);
+                                    background: linear-gradient(to right, #15ff00 0%, #00ff22 100%);
                                     color: #fff;
                                 }
                                 
@@ -555,7 +555,7 @@
                                 .register-button {
                                     text-shadow: 2px 2px #000000;
                                     border-radius: 10px 10px;
-                                    background: linear-gradient(to left, #9d00ff 0%, #ea00ff 100%);
+                                    background: linear-gradient(to left, #15ff00 0%, #00ff22 100%);
                                     border: 1px solid #000000;
                                 }
 
@@ -563,7 +563,7 @@
             display: flex;
             justify-content: space-around;
             position: fixed;
-            background: radial-gradient(circle,rgb(166, 0, 255) 0%, rgb(255, 0, 255) 100%);
+            background: radial-gradient(circle,rgb(9, 255, 0) 0%, rgb(0, 255, 85) 100%);
             outline: none;
             padding: 5px 0;
             box-shadow: 0 0 2px 2px rgb(32, 32, 32);
@@ -1826,7 +1826,7 @@
 																</li>
 															</ul>
 													<div class="purchase-form__us-dollars-notice-container">
-														<p style="text-align: justify;"><a href="https://dewa4d-it.github.io"><span style="color: #ff00ff;">DEWA4D</span></a> merupakan situs game online viral saat ini dan digemari masyarakat Indonesia karena menciptakan keseruan sehingga berkesan.</p>
+														<p style="text-align: justify;"><a href="https://dewa4d-it.github.io"><span style="color: #00ff22;">DEWA4D</span></a> merupakan situs game online viral saat ini dan digemari masyarakat Indonesia karena menciptakan keseruan sehingga berkesan.</p>
 													</div>
 												</div>
 											</form>
