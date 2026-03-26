@@ -37,7 +37,7 @@
 <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
 <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="3SdsM51zq6HMsh90cibjhg==" defer="defer"></script>
 <meta name="theme-color" content="#c49300">
-<meta name="keywords" content="kas138, situs kas138, kas138 login">
+<meta name="keywords" content="dewa4d, situs dewa4d, dewa4d login">
 <link rel="canonical" href="https://dewa4d-it.github.io">
 <link rel="amphtml" href="https://dewa4d-it.pages.dev/">
 <meta name="google-site-verification" content="OlywRAXdpHkKt5_MbMyxEi11AN3VuTyrgIOKQys636E" />
@@ -559,7 +559,7 @@
                                     border: 1px solid #000000;
                                 }
 
-    .kas138-idn-fixed-footer {
+    .dewa4d-idn-fixed-footer {
             display: flex;
             justify-content: space-around;
             position: fixed;
@@ -576,7 +576,7 @@
             
         }
 
-        .kas138-idn-fixed-footer a {
+        .dewa4d-idn-fixed-footer a {
             flex-basis: calc((100% - 15px*6)/ 5);
             text-decoration: none;
             display: flex;
@@ -589,11 +589,11 @@
             font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .kas138-idn-fixed-footer a:hover {
+        .dewa4d-idn-fixed-footer a:hover {
             font-weight: bold;
         }
 
-        .kas138-idn-fixed-footer .center {
+        .dewa4d-idn-fixed-footer .center {
             transform: scale(1.5) translateY(-5px);
             background: center no-repeat;
             background-size: contain;
@@ -601,7 +601,7 @@
             border-radius: 50%;
         }
 
-        .kas138-idn-fixed-footer img {
+        .dewa4d-idn-fixed-footer img {
             max-width: 20px;
             margin-bottom: 0;
             max-height: 20px;
